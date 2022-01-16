@@ -119,9 +119,6 @@ export default {
       ],
     };
   },
-  methods: {
-    checkdate(year) {},
-  },
 };
 </script>
 <style>
